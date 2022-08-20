@@ -1,5 +1,4 @@
 # MemeDekho-Android
-Meme App
 
 ## Built With 🛠
 * [Kotlin] - First class and official programming language for Android development.
